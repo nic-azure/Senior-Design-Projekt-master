@@ -2,6 +2,7 @@
 # Prerequisites
 *.d
 
+<<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
 
@@ -13,6 +14,8 @@ Senior Design/CAMOutputs/DrillFiles/drills.xln
 *.d
 
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 # Compiled Object files
 *.slo
@@ -44,6 +47,7 @@ Senior Design/CAMOutputs/DrillFiles/drills.xln
 *.out
 *.app
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
 automated-self-serving-system-master/intellicode-master/
@@ -54,6 +58,22 @@ automated-self-serving-system-master/intellicode-master/
 automated-self-serving-system-master/intellicode-master/
 >>>>>>> Stashed changes
 .gitattributes
+=======
+automated-self-serving-system-master/intellicode-master/
+<<<<<<< Updated upstream
+=======
+
+.github/ISSUE_TEMPLATE/bug_report.md
+.github/ISSUE_TEMPLATE/custom.md
+.github/ISSUE_TEMPLATE/feature_request.md
+_config.yml
+index.md
+README.md
+Senior Design/CAMOutputs/DrillFiles/drills.xln
+Senior Design/CAMOutputs/GerberFiles/gerber_job.gbrjob
+Senior_Design_Poster.pptm
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 Automated Drink Dispensing System Final Presentation.pptx
 Automated Drink Dispensing System Final Report.docx
 automated-self-serving-system-master/ApplicationUserEditor.py
@@ -91,7 +111,10 @@ automated-self-serving-system-master/Old scripts/__pycache__/callback_functions.
 automated-self-serving-system-master/Old scripts/callback_functions.py
 automated-self-serving-system-master/Old scripts/main_application.py
 automated-self-serving-system-master/PeripheralDevice.py
+<<<<<<< Updated upstream
 automated-self-serving-system-master/README.md
+=======
+>>>>>>> Stashed changes
 automated-self-serving-system-master/system_info/config.txt
 automated-self-serving-system-master/system_info/drink_analytics.csv
 automated-self-serving-system-master/system_info/drink_sales/drink_sales_2018-11-18.txt
@@ -123,7 +146,10 @@ automated-self-serving-system-master/system_info/log_files/log_on_2018-11-23.txt
 automated-self-serving-system-master/system_info/shared_data/shared_data_2018-11-22.txt
 automated-self-serving-system-master/system_info/shared_data/shared_data_2018-11-23.txt
 automated-self-serving-system-master/TkInterColorCharts.png
+<<<<<<< Updated upstream
 LICENSE
+=======
+>>>>>>> Stashed changes
 phone_app_code/AndroidManifest.xml
 phone_app_code/java/com/example/cabla/drinkmachinephoneapp/DataRequester.java
 phone_app_code/java/com/example/cabla/drinkmachinephoneapp/InventoryFragment.java
@@ -178,7 +204,10 @@ phone_app_code/res/values/dimens.xml
 phone_app_code/res/values/prefs.xml
 phone_app_code/res/values/strings.xml
 phone_app_code/res/values/styles.xml
+<<<<<<< Updated upstream
 README.md
+=======
+>>>>>>> Stashed changes
 Senior Design/CAMOutputs/CAMOutputs/DrillFiles/drills.xln
 Senior Design/CAMOutputs/CAMOutputs/GerberFiles/copper_bottom_l4.gbr
 Senior Design/CAMOutputs/CAMOutputs/GerberFiles/copper_inner_l2.gbr
@@ -192,12 +221,18 @@ Senior Design/CAMOutputs/CAMOutputs/GerberFiles/soldermask_bottom.gbr
 Senior Design/CAMOutputs/CAMOutputs/GerberFiles/soldermask_top.gbr
 Senior Design/CAMOutputs/CAMOutputs/GerberFiles/solderpaste_bottom.gbr
 Senior Design/CAMOutputs/CAMOutputs/GerberFiles/solderpaste_top.gbr
+<<<<<<< Updated upstream
 Senior Design/CAMOutputs/DrillFiles/drills.xln
+=======
+>>>>>>> Stashed changes
 Senior Design/CAMOutputs/GerberFiles/copper_bottom_l4.gbr
 Senior Design/CAMOutputs/GerberFiles/copper_inner_l2.gbr
 Senior Design/CAMOutputs/GerberFiles/copper_inner_l3.gbr
 Senior Design/CAMOutputs/GerberFiles/copper_top_l1.gbr
+<<<<<<< Updated upstream
 Senior Design/CAMOutputs/GerberFiles/gerber_job.gbrjob
+=======
+>>>>>>> Stashed changes
 Senior Design/CAMOutputs/GerberFiles/profile.gbr
 Senior Design/CAMOutputs/GerberFiles/silkscreen_bottom.gbr
 Senior Design/CAMOutputs/GerberFiles/silkscreen_top.gbr
@@ -262,6 +297,7 @@ Senior Design/PassTransistor.l#8
 Senior Design/PassTransistor.l#9
 Senior Design/PassTransistor.lbr
 Senior Design/untitled.s#1
+<<<<<<< Updated upstream
 Senior_Design_Poster.pptm
 .github/workflows/crunch42-analysis.yml
 .github/ISSUE_TEMPLATE/bug_report.md
@@ -271,4 +307,7 @@ Senior_Design_Poster.pptm
 README.md
 .~lock.Senior_Design_Poster.pptm#
 Senior_Design_Poster.pptm~new_commit-all
+=======
+=======
+>>>>>>> Stashed changes
 >>>>>>> Stashed changes

@@ -2,9 +2,13 @@
     "Header": {
         "Comment": "All values are metric (mm)",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "CreationDate": "2018-11-13T14:45:21Z",
 =======
         "CreationDate": "2018-11-13T14:47:28Z",
+>>>>>>> Stashed changes
+=======
+        "CreationDate": "2018-11-13T14:45:21Z",
 >>>>>>> Stashed changes
         "GenerationSoftware": {
             "Application": "EAGLE",
