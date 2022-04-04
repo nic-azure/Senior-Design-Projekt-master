@@ -1,0 +1,275 @@
+
+<<<<<<< 28dff98
+<<<<<<< Updated upstream
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+=======
+.gitattributes
+.github/ISSUE_TEMPLATE/bug_report.md
+.github/ISSUE_TEMPLATE/custom.md
+.github/ISSUE_TEMPLATE/feature_request.md
+.~lock.Senior_Design_Poster.pptm\#
+LICENSE
+phone_app_code/.gitignore/bingCsBros/bingCsBros/DataModel.xcdatamodeld/DataModel.xcdatamodel/$/translations/zh-CN/content/desktop/.log.hp
+README.md
+Senior Design/CAMOutputs/DrillFiles/drills.xln
+Senior Design/CAMOutputs/GerberFiles/gerber_job.gbrjob
+.gitattributes
+.github/ISSUE_TEMPLATE/bug_report.md
+.github/ISSUE_TEMPLATE/custom.md
+.github/ISSUE_TEMPLATE/feature_request.md
+automated-self-serving-system-master/__pycache__/DrinkProfile.cpython-310.pyc
+automated-self-serving-system-master/__pycache__/EmbeddedKeyboard.cpython-310.pyc
+LICENSE
+phone_app_code/.gitignore/bingCsBros/bingCsBros/DataModel.xcdatamodeld/DataModel.xcdatamodel/$/translations/zh-CN/content/desktop/.log.hp
+README.md
+Senior Design/CAMOutputs/DrillFiles/drills.xln
+Senior Design/CAMOutputs/GerberFiles/gerber_job.gbrjob
+Senior-Design-Projekt-master_6379b3ec4e5179297a78deb46d1f6ed6f3460b56_zip.exe
+Senior_Design_Poster.pptm
+README.md
+Senior Design/CAMOutputs/DrillFiles/drills.xln
+Senior Design/CAMOutputs/GerberFiles/gerber_job.gbrjob
+Senior_Design_Poster.pptm
+*.pptm
+>>>>>>> Stashed changes
+=======
+automated-self-serving-system-master/__pycache__/EmbeddedKeyboard.cpython-310.pyc
+automated-self-serving-system-master/__pycache__/DrinkProfile.cpython-310.pyc
+.gitattributes
+Automated Drink Dispensing System Final Presentation.pptx
+Automated Drink Dispensing System Final Report.docx
+automated-self-serving-system-master/ApplicationUserEditor.py
+automated-self-serving-system-master/AppWindow.py
+automated-self-serving-system-master/CustomerWindow.py
+automated-self-serving-system-master/drink_profiles/cuba_libre/cuba_libre.jpg
+automated-self-serving-system-master/drink_profiles/cuba_libre/cuba_libre.txt
+automated-self-serving-system-master/drink_profiles/daiquiri/daiquiri.jpg
+automated-self-serving-system-master/drink_profiles/daiquiri/daiquiri.txt
+automated-self-serving-system-master/drink_profiles/kamikaze/kamikaze.jpg
+automated-self-serving-system-master/drink_profiles/kamikaze/kamikaze.txt
+automated-self-serving-system-master/drink_profiles/long_island_iced_tea/long_island_iced_tea.jpg
+automated-self-serving-system-master/drink_profiles/long_island_iced_tea/long_island_iced_tea.txt
+automated-self-serving-system-master/drink_profiles/naval_gimlet/naval_gimlet.jpg
+automated-self-serving-system-master/drink_profiles/naval_gimlet/naval_gimlet.txt
+automated-self-serving-system-master/drink_profiles/rum_and_coke/rum_and_coke.jpg
+automated-self-serving-system-master/drink_profiles/rum_and_coke/rum_and_coke.txt
+automated-self-serving-system-master/drink_profiles/screwdriver/screwdriver.jpg
+automated-self-serving-system-master/drink_profiles/screwdriver/screwdriver.txt
+automated-self-serving-system-master/drink_profiles/tequila/tequila.jpg
+automated-self-serving-system-master/drink_profiles/tequila/tequila.txt
+automated-self-serving-system-master/drink_profiles/vodka/vodka.jpg
+automated-self-serving-system-master/drink_profiles/vodka/vodka.txt
+automated-self-serving-system-master/drink_profiles/vodka_and_cranberry/vodka_and_cranberry.jpg
+automated-self-serving-system-master/drink_profiles/vodka_and_cranberry/vodka_and_cranberry.txt
+automated-self-serving-system-master/DrinkProfile.py
+automated-self-serving-system-master/DrinkProfileManager.py
+automated-self-serving-system-master/EmbeddedKeyboard.py
+automated-self-serving-system-master/EmployeeWindow.py
+automated-self-serving-system-master/gui_images/Senior_Design_Logo.jpg
+automated-self-serving-system-master/KeyboardWindow.py
+automated-self-serving-system-master/LoginWindow.py
+automated-self-serving-system-master/MainApp.py
+automated-self-serving-system-master/Old scripts/__pycache__/callback_functions.cpython-36.pyc
+automated-self-serving-system-master/Old scripts/callback_functions.py
+automated-self-serving-system-master/Old scripts/main_application.py
+automated-self-serving-system-master/PeripheralDevice.py
+automated-self-serving-system-master/README.md
+automated-self-serving-system-master/system_info/config.txt
+automated-self-serving-system-master/system_info/drink_analytics.csv
+automated-self-serving-system-master/system_info/drink_sales/drink_sales_2018-11-18.txt
+automated-self-serving-system-master/system_info/drink_sales/drink_sales_2018-11-20.txt
+automated-self-serving-system-master/system_info/drink_sales/drink_sales_2018-11-22.txt
+automated-self-serving-system-master/system_info/drink_sales/drink_sales_2018-11-23.txt
+automated-self-serving-system-master/system_info/instructions_4_customer.txt
+automated-self-serving-system-master/system_info/instructions_4_employee.txt
+automated-self-serving-system-master/system_info/inventory_info.csv
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-03.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-04.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-05.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-06.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-07.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-08.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-09.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-10.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-11.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-12.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-13.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-14.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-15.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-17.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-18.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-20.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-21.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-22.txt
+automated-self-serving-system-master/system_info/log_files/log_on_2018-11-23.txt
+automated-self-serving-system-master/system_info/shared_data/shared_data_2018-11-22.txt
+automated-self-serving-system-master/system_info/shared_data/shared_data_2018-11-23.txt
+automated-self-serving-system-master/TkInterColorCharts.png
+LICENSE
+phone_app_code/AndroidManifest.xml
+phone_app_code/java/com/example/cabla/drinkmachinephoneapp/DataRequester.java
+phone_app_code/java/com/example/cabla/drinkmachinephoneapp/InventoryFragment.java
+phone_app_code/java/com/example/cabla/drinkmachinephoneapp/IP_Config.java
+phone_app_code/java/com/example/cabla/drinkmachinephoneapp/MainActivity.java
+phone_app_code/java/com/example/cabla/drinkmachinephoneapp/SalesFragment.java
+phone_app_code/java/com/example/cabla/drinkmachinephoneapp/StatusFragment.java
+phone_app_code/java/com/example/cabla/drinkmachinephoneapp/User.java
+phone_app_code/res/drawable-v24/ic_launcher_foreground.xml
+phone_app_code/res/drawable/cell_border.xml
+phone_app_code/res/drawable/ic_launcher_background.xml
+phone_app_code/res/layout/activity_ip__config.xml
+phone_app_code/res/layout/activity_main.xml
+phone_app_code/res/layout/activity_user.xml
+phone_app_code/res/layout/fragment_inventory.xml
+phone_app_code/res/layout/fragment_sales2.xml
+phone_app_code/res/layout/fragment_status2.xml
+phone_app_code/res/layout/fragment_user.xml
+phone_app_code/res/menu/menu_user.xml
+phone_app_code/res/mipmap-anydpi-v26/adds_icon.xml
+phone_app_code/res/mipmap-anydpi-v26/adds_icon_round.xml
+phone_app_code/res/mipmap-anydpi-v26/ic_launcher.xml
+phone_app_code/res/mipmap-anydpi-v26/ic_launcher_round.xml
+phone_app_code/res/mipmap-hdpi/adds_foreground.png
+phone_app_code/res/mipmap-hdpi/adds_icon.png
+phone_app_code/res/mipmap-hdpi/adds_icon_round.png
+phone_app_code/res/mipmap-hdpi/ic_launcher.png
+phone_app_code/res/mipmap-hdpi/ic_launcher_round.png
+phone_app_code/res/mipmap-mdpi/adds_foreground.png
+phone_app_code/res/mipmap-mdpi/adds_icon.png
+phone_app_code/res/mipmap-mdpi/adds_icon_round.png
+phone_app_code/res/mipmap-mdpi/ic_launcher.png
+phone_app_code/res/mipmap-mdpi/ic_launcher_round.png
+phone_app_code/res/mipmap-xhdpi/adds_foreground.png
+phone_app_code/res/mipmap-xhdpi/adds_icon.png
+phone_app_code/res/mipmap-xhdpi/adds_icon_round.png
+phone_app_code/res/mipmap-xhdpi/ic_launcher.png
+phone_app_code/res/mipmap-xhdpi/ic_launcher_round.png
+phone_app_code/res/mipmap-xxhdpi/adds_foreground.png
+phone_app_code/res/mipmap-xxhdpi/adds_icon.png
+phone_app_code/res/mipmap-xxhdpi/adds_icon_round.png
+phone_app_code/res/mipmap-xxhdpi/ic_launcher.png
+phone_app_code/res/mipmap-xxhdpi/ic_launcher_round.png
+phone_app_code/res/mipmap-xxxhdpi/adds_foreground.png
+phone_app_code/res/mipmap-xxxhdpi/adds_icon.png
+phone_app_code/res/mipmap-xxxhdpi/adds_icon_round.png
+phone_app_code/res/mipmap-xxxhdpi/ic_launcher.png
+phone_app_code/res/mipmap-xxxhdpi/ic_launcher_round.png
+phone_app_code/res/values-w820dp/dimens.xml
+phone_app_code/res/values/colors.xml
+phone_app_code/res/values/dimens.xml
+phone_app_code/res/values/prefs.xml
+phone_app_code/res/values/strings.xml
+phone_app_code/res/values/styles.xml
+Senior Design/CAMOutputs/CAMOutputs/DrillFiles/drills.xln
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/copper_bottom_l4.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/copper_inner_l2.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/copper_inner_l3.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/copper_top_l1.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/gerber_job.gbrjob
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/profile.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/silkscreen_bottom.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/silkscreen_top.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/soldermask_bottom.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/soldermask_top.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/solderpaste_bottom.gbr
+Senior Design/CAMOutputs/CAMOutputs/GerberFiles/solderpaste_top.gbr
+Senior Design/CAMOutputs/DrillFiles/drills.xln
+Senior Design/CAMOutputs/GerberFiles/copper_bottom_l4.gbr
+Senior Design/CAMOutputs/GerberFiles/copper_inner_l2.gbr
+Senior Design/CAMOutputs/GerberFiles/copper_inner_l3.gbr
+Senior Design/CAMOutputs/GerberFiles/copper_top_l1.gbr
+Senior Design/CAMOutputs/GerberFiles/gerber_job.gbrjob
+Senior Design/CAMOutputs/GerberFiles/profile.gbr
+Senior Design/CAMOutputs/GerberFiles/silkscreen_bottom.gbr
+Senior Design/CAMOutputs/GerberFiles/silkscreen_top.gbr
+Senior Design/CAMOutputs/GerberFiles/soldermask_bottom.gbr
+Senior Design/CAMOutputs/GerberFiles/soldermask_top.gbr
+Senior Design/CAMOutputs/GerberFiles/solderpaste_bottom.gbr
+Senior Design/CAMOutputs/GerberFiles/solderpaste_top.gbr
+Senior Design/CAMOutputs/template_4_layer.cam
+Senior Design/eagle.epf
+Senior Design/Embedded.b\#1
+Senior Design/Embedded.b\#2
+Senior Design/Embedded.b\#3
+Senior Design/Embedded.b\#4
+Senior Design/Embedded.b\#5
+Senior Design/Embedded.b\#6
+Senior Design/Embedded.b\#7
+Senior Design/Embedded.b\#8
+Senior Design/Embedded.b\#9
+Senior Design/Embedded.brd
+Senior Design/Embedded.csv
+Senior Design/Embedded.png
+Senior Design/Embedded.pro
+Senior Design/Embedded.s\#\#
+Senior Design/Embedded.s\#1
+Senior Design/Embedded.s\#2
+Senior Design/Embedded.s\#3
+Senior Design/Embedded.s\#4
+Senior Design/Embedded.s\#5
+Senior Design/Embedded.s\#6
+Senior Design/Embedded.s\#7
+Senior Design/Embedded.s\#8
+Senior Design/Embedded.s\#9
+Senior Design/Embedded.sch
+Senior Design/Embedded.txt
+Senior Design/Embedded2.png
+Senior Design/Embedded_00.job
+Senior Design/Embedded_01.job
+Senior Design/Embedded_02.job
+Senior Design/Embedded_03.job
+Senior Design/Embedded_04.job
+Senior Design/Embedded_05.job
+Senior Design/Embedded_06.job
+Senior Design/Embedded_07.job
+Senior Design/Embedded_08.job
+Senior Design/Embedded_09.job
+Senior Design/Embedded_2018-11-13.zip
+Senior Design/Embedded_2018-11-13_2.zip
+Senior Design/Embedded_2018-11-20.zip
+Senior Design/EmbeddedParts_List
+Senior Design/kisscc0-robotic-arm-mechanical-engineering-robotics-hand-mechanical-hand-side-view-5b777532764ec8.1189714615345554424846.png
+Senior Design/mechanism.png
+Senior Design/oshpark_ulp.log
+Senior Design/PartList
+Senior Design/PassTransistor.l\#1
+Senior Design/PassTransistor.l\#2
+Senior Design/PassTransistor.l\#3
+Senior Design/PassTransistor.l\#4
+Senior Design/PassTransistor.l\#5
+Senior Design/PassTransistor.l\#6
+Senior Design/PassTransistor.l\#7
+Senior Design/PassTransistor.l\#8
+Senior Design/PassTransistor.l\#9
+Senior Design/PassTransistor.lbr
+Senior Design/untitled.s\#1
+Senior_Design_Poster.pptm
+>>>>>>> upstream/8
