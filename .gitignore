@@ -1,4 +1,5 @@
 
+<<<<<<< Updated upstream
 <<<<<<< sollo11-patch-1
 *.md
 .gitattributes
@@ -6,6 +7,8 @@ automated-self-serving-system-master/__pycache__/DrinkProfile.cpython-310.pyc
 automated-self-serving-system-master/__pycache__/EmbeddedKeyboard.cpython-310.pyc
 LICENSE
 =======
+=======
+>>>>>>> Stashed changes
 automated-self-serving-system-master/__pycache__/EmbeddedKeyboard.cpython-310.pyc
 automated-self-serving-system-master/__pycache__/DrinkProfile.cpython-310.pyc
 .gitattributes
@@ -217,4 +220,4 @@ Senior Design/PassTransistor.l\#9
 Senior Design/PassTransistor.lbr
 Senior Design/untitled.s\#1
 Senior_Design_Poster.pptm
->>>>>>> upstream/8
+Senior-Design-Projekt-master_6379b3ec4e5179297a78deb46d1f6ed6f3460b56_zip.exe
